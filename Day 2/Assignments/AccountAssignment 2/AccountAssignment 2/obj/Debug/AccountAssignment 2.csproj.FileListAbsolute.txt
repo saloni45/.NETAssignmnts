@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Assignment\Day 2\Assignments\AccountAssignment 2\AccountAssignment 2\bin\Debug\AccountAssignment 2.exe.config
+C:\Users\Administrator\Documents\Assignment\Day 2\Assignments\AccountAssignment 2\AccountAssignment 2\bin\Debug\AccountAssignment 2.exe
+C:\Users\Administrator\Documents\Assignment\Day 2\Assignments\AccountAssignment 2\AccountAssignment 2\bin\Debug\AccountAssignment 2.pdb
+C:\Users\Administrator\Documents\Assignment\Day 2\Assignments\AccountAssignment 2\AccountAssignment 2\obj\Debug\AccountAssignment 2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Assignment\Day 2\Assignments\AccountAssignment 2\AccountAssignment 2\obj\Debug\AccountAssignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Assignment\Day 2\Assignments\AccountAssignment 2\AccountAssignment 2\obj\Debug\AccountAssignment 2.exe
+C:\Users\Administrator\Documents\Assignment\Day 2\Assignments\AccountAssignment 2\AccountAssignment 2\obj\Debug\AccountAssignment 2.pdb

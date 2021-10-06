@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Assignment\Day 4\Assignment2_Linq\Assignment2_Linq\obj\Debug\Assignment2_Linq.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Assignment\Day 4\Assignment2_Linq\Assignment2_Linq\obj\Debug\Assignment2_Linq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Assignment\Day 4\Assignment2_Linq\Assignment2_Linq\bin\Debug\Assignment2_Linq.exe.config
+C:\Users\Administrator\Documents\Assignment\Day 4\Assignment2_Linq\Assignment2_Linq\bin\Debug\Assignment2_Linq.exe
+C:\Users\Administrator\Documents\Assignment\Day 4\Assignment2_Linq\Assignment2_Linq\bin\Debug\Assignment2_Linq.pdb
+C:\Users\Administrator\Documents\Assignment\Day 4\Assignment2_Linq\Assignment2_Linq\obj\Debug\Assignment2_Linq.exe
+C:\Users\Administrator\Documents\Assignment\Day 4\Assignment2_Linq\Assignment2_Linq\obj\Debug\Assignment2_Linq.pdb
