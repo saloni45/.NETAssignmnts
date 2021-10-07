@@ -1,0 +1,191 @@
+{
+	"info": {
+		"_postman_id": "df685547-2843-4c8a-8811-47e2e24ec6d8",
+		"name": "EmployeeApp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "AllDepartments",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:10605/api/department/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10605",
+					"path": [
+						"api",
+						"department",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddDepartment",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\"name\":\"engineering\",\r\n\"totalEmployees\":32\r\n\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:10605/api/Department",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10605",
+					"path": [
+						"api",
+						"Department"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetDepartmentByID",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:10605/api/Department/5",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10605",
+					"path": [
+						"api",
+						"Department",
+						"5"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DeleteDepartment",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:10605/api/Department/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10605",
+					"path": [
+						"api",
+						"Department",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateDepartment",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n        \"id\": 7,\r\n        \"name\": \"business\",\r\n        \"totalEmployees\": 9\r\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:10605/api/Department/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10605",
+					"path": [
+						"api",
+						"Department",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddEmployee",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\":\"Akash\",\r\n    \"email\":\"Akash@example.com\",\r\n    \"departmentId\":2\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:10605/api/employee/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10605",
+					"path": [
+						"api",
+						"employee",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetEmployee",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:10605/api/employee/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10605",
+					"path": [
+						"api",
+						"employee",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
